@@ -37,9 +37,9 @@ from cats import index2name, name2index
 # Note in particular the "g25" number, which may also be "g50", "g100", or "g200"
 # depending on which model you are using.
 # WARNING: The "g200" model requires at least 20GB of RAM!
-filepath_checkpoint = "transformer-g25/transformer_checkpoint_g25.hdf5"
-filepath_glove = "glove.twitter.27B.25d.txt"
-filepath_tweets = "dataset/tweets.jsonl"
+filepath_checkpoint = "G:/AI Hack/Project/transformer_checkpoint_g25.hdf5"
+filepath_glove = "G:/AI Hack/Project/glove.twitter.27B.25d.txt"
+filepath_tweets = "G:/AI Hack/Project/tweets.jsonl"
 
 
 
